@@ -78,8 +78,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/badgelatte/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/badgelatte/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Counting
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/badgelatte/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/badgelatte/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/badgelatte/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
