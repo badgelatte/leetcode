@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/badgelatte/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/badgelatte/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/badgelatte/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/badgelatte/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/badgelatte/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/badgelatte/leetcode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/badgelatte/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/badgelatte/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/badgelatte/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/badgelatte/leetcode/tree/master/0011-container-with-most-water) |
+| [1710-maximum-units-on-a-truck](https://github.com/badgelatte/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
 |  |
 | ------- |
