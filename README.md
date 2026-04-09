@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/badgelatte/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/badgelatte/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/badgelatte/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/badgelatte/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/badgelatte/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/badgelatte/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/badgelatte/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/badgelatte/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/badgelatte/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/badgelatte/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0881-boats-to-save-people](https://github.com/badgelatte/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/badgelatte/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/badgelatte/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -43,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/badgelatte/leetcode/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/badgelatte/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0881-boats-to-save-people](https://github.com/badgelatte/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/badgelatte/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/badgelatte/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/badgelatte/leetcode/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/badgelatte/leetcode/tree/master/0881-boats-to-save-people) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/badgelatte/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1710-maximum-units-on-a-truck](https://github.com/badgelatte/leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
