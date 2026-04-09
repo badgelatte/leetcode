@@ -1,23 +1,20 @@
 class Solution {
     public int balancedStringSplit(String s) {
-        int countR = 0;
-        int countL = 0;
-        int countStr = 0;
+        int balance = 0;
+        int count = 0;
 
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == 'R') {
-                countR++;
+                balance++;
             } else if (s.charAt(i) == 'L') {
-                countL++;
+                balance--;
             }
 
-            if (countR == countL) {
-                countStr++;
-                countR = 0;
-                countL = 0;
+            if (balance == 0) {
+                count++;
             }
         }
 
-        return countStr;        
+        return count;        
     }
 }
